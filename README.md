@@ -7,10 +7,7 @@ I'm Carla, a fullstack web developer with a background in 3D graphics living in 
 - ♾️ I have an interest in accessibility, I enjoy creating accessibility tools to help others and myself.
 - ➗ I am (very!) slowly trying to work through a mathematics degree at UNED.
 - 🍉 Free Palestine!
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadina-carla-cardillo-garreta/)
-
-## My stack
+  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
