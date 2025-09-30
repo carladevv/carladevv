@@ -4,6 +4,7 @@ I'm Carla, a fullstack web developer with a background in 3D graphics living in 
 - 🎮 I have 3 years of in-studio gamedev experience developing educational games for web, mobile and VR.
 - 🎨 I was an illustrator and 3D artist before I was a programmer, which brings artistic creativity into my work.
 - ♾️ I have an interest in accessibility, I enjoy creating accessibility tools to help others and myself.
+- ➗ I am (very!) slowly trying to work through a math degree at UNED.
 - 🍉 Free Palestine!
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadina-carla-cardillo-garreta/)
