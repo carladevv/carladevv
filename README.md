@@ -51,7 +51,7 @@ I used to make these for my own personal use, now I mostly make them for my team
 These are projects I'd like to build sometime in the future. They're free for the taking, just let me know if you start tackling one! I wanna see!
 |Name | Description |
 |------|-------|
-| Flashing lights detector for Windows and Linux | Desktop application that checks the render buffer to detect sharp contrasts in color, hue and saturation according to existing standards ('flashing lights') to block them. I don't think I can realistically work on this because I am sensitive to flashing lights, but I have a some research compiled that I can share. |
+| Flashing lights detector for Windows and Linux | Desktop application that checks the render buffer to detect sharp contrasts in color, hue and saturation according to existing standards ('flashing lights') to block them. I don't think I can realistically work on this because I am sensitive to flashing lights, but I have some research compiled that I can share. |
 | Browsing Buddy | A little animated mascot that summarizes websites with AI and displays a timer to keep track of how much is left of your work day, giving you reminders to take breaks every hour and drink water. Extension for Chrome and Firefox. |
 
 
