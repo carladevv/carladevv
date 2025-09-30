@@ -1,7 +1,7 @@
 # Hi! 👋
 I'm Carla, a fullstack web developer with a background in 3D graphics living in Cádiz, Spain. 
 
-- 🎮 I have 3 years of in-studio gamedev experience developing educational games for web, mobile and VR.
+- 🎮 I have 3 years of in-studio gamedev experience designing and developing educational games for web, mobile and VR.
 - 🎨 I was an illustrator and 3D artist before I was a programmer, which brings artistic creativity into my work.
 - ♾️ I have an interest in accessibility, I enjoy creating accessibility tools to help others and myself.
 - ➗ I am (very!) slowly trying to work through a math degree at UNED.
