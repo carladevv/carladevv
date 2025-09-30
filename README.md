@@ -30,7 +30,7 @@ I enjoy creating tools to help with web accessibility and boost the creative pro
 | [Portfolio site](https://github.com/carladevv/portfolio-site) | Simple but effective personal portfolio site. | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | [Visit](https://carlacgdm-portfolio.netlify.app/) |
 
 ### Three.js
-I am currently in the process of splitting my large 3D web application ('Open Virtual Tours') into smaller, more manageable tools and experiences.
+I am currently in the process of splitting my large 3D web application ('Open Virtual Tours') into smaller, more manageable tools and experiences. Aside from that, I have some games in the works.
 |Name | Description | Stack | Links |
 |------|-------|------| ----- |
 | [Archivarium](https://github.com/carladevv/museum-generator)| Dynamic, fully customizable 3D virtual museum.<br><sub>• Designed in collaboration with Laura Gómez Morgado</sub> | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)<br>![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)<br>![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | Coming soon! |
