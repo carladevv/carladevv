@@ -1,5 +1,5 @@
 # Hi! 👋
-I'm Carla, a fullstack web developer with a background in 3D graphics living in Cádiz, Spain. 
+I'm Carla, a full-stack web developer with a background in 3D graphics living in Cádiz, Spain. 
 
 - 🎮 I have 3 years of in-studio gamedev experience designing and developing educational games for web, mobile and VR.
 - ❌ I have worked in Unity development but I have no desire to return to it. I am free.
