@@ -17,6 +17,8 @@ I'm Carla, a full-stack web developer with a background in 3D graphics living in
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
 
 ## My work
 ### Highlighted Projects
