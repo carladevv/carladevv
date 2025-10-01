@@ -3,8 +3,8 @@ I'm Carla, a full-stack web developer with a background in 3D graphics living in
 
 - 🎮 I have 3 years of in-studio gamedev experience designing and developing educational games for web, mobile and VR.
 - ❌ I have worked in Unity development but I have no desire to return to it. I am free.
-- 🎨 I was an illustrator and 3D artist before I was a programmer, which brings artistic creativity into my work.
-- ♾️ I have an interest in accessibility, I enjoy creating accessibility tools to help others and myself.
+- 🎨 I was an illustrator and 3D artist before I was a programmer, so I have a creative eye.
+- ♾️ I enjoy creating accessibility tools to help others and myself.
 - ➗ I am (very!) slowly trying to work through a mathematics degree at UNED.
 - 🍉 Free Palestine!
   
@@ -46,7 +46,7 @@ I used to make these for my own personal use, now I mostly make them for my team
 | [Tile-based terrain generator](link) | Loose application of the Wave-Function-Collapse algorithm to generate an adjacency index and automatically lay out a set of 3D tiles. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | [Video tutorial](link) |
 
 ### Ideas
-These are projects I'd like to build sometime in the future. They're free for the taking, just let me know if you start tackling one! I wanna see!
+These are projects I don't have time for at the moment. Feel free to grab one if you'd like to tackle it.
 |Name | Description |
 |------|-------|
 | Flashing lights detector for Windows and Linux | Desktop application that checks the render buffer to detect sharp contrasts in color, hue and saturation according to existing standards ('flashing lights') to block them. I don't think I can realistically work on this because I am sensitive to flashing lights, but I have some research compiled that I can share. |
